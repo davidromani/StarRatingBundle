@@ -11,3 +11,4 @@ services:
         tags: [{ name: twig.extension }]
         arguments:
             - "@service_container"
+
